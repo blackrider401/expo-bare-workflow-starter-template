@@ -1,0 +1,12 @@
+{
+  "name": "AnnieTester",
+  "displayName": "AnnieTester",
+  "expo": {
+    "name": "AnnieTester",
+    "slug": "AnnieTester",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
